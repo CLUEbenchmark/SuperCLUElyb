@@ -95,4 +95,5 @@ SuperCLUE琅琊榜：中文通用大模型匿名对战评价基准
      
    SuperCLUE琅琊榜：<a href='https://www.SuperCLUEAI.com'>www.SuperCLUEAI.com</a>
    
+   
    模型加入SuperCLUE琅琊榜： <a href='https://wj.qq.com/s2/12465979/97a5/'>在线表格-登记入口</a>
