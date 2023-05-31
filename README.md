@@ -15,7 +15,12 @@ SuperCLUE琅琊榜：中文通用大模型匿名对战评价基准
 - [链接](#链接)
 
 
-<img src="https://github.com/CLUEbenchmark/SuperCLUELYB/blob/master/resources/img/supercluelyb_rank.png"  width="95%" height="95%"></img>
+<img src="https://github.com/CLUEbenchmark/SuperCLUELYB/blob/master/resources/img/supercluelyb_rank.png"  width="100%" height="100%"></img>
+
+表格1 基于5.8K投票数据，使用Elo机制获得的16个模型的排名。你可以在<a href='https://www.superclueai.com'>琅琊榜</a>上查看
+
+<img src="https://github.com/CLUEbenchmark/SuperCLUELYB/blob/master/resources/img/battle.png"  width="100%" height="100%"></img>
+图片1：一对一的投票
 
 ## 介绍Introduction
 
@@ -25,9 +30,9 @@ SuperCLUE琅琊榜：中文通用大模型匿名对战评价基准
     ChatGLM,MOSS,RWKV,基于基于LLaMA的Vicua,BELLE等。
     
     尽管每周都会不断发布新的模型，但社区对这些模型的基准测评缺面临着一些挑战，特别是开放式问题的测试。
-    好的基准系统，需要有可扩展性，即可以支持大量的模型；可以对新增的模型进行快速的测试。该系统具备这样的特性；当前的一些中文通用大基准测试，
+    好的基准系统，需要有可扩展性，即可以支持大量的模型；可以对新增的模型进行快速的测试。该系统具备这样的特性。当前的一些中文通用大基准测试，
     多基于学术与专业能力测试，虽然可以考察模型的专业能力，但并没有直接针对开放式问题的测试；也可能不是针对生成式问题效果的直接测试，
-    如考虑模型在这个能力上理解层面的测试。
+    如考察模型在这个能力上理解层面的测试。
     
     这里我们介绍了SuperCLUE琅琊榜，这是一个中文通用模型基准平台，以众包方式提供匿名随机对战。聊天机器人竞技场采用Elo评级系统，
     这是国际象棋和其他竞技游戏中广泛使用的评级系统。
