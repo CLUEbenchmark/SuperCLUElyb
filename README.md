@@ -23,7 +23,10 @@ SuperCLUE琅琊榜：中文通用大模型匿名对战评价基准
     
     图片1：一对一的投票
 
-<img src="https://github.com/CLUEbenchmark/SuperCLUELYB/blob/master/resources/img/benchmarks.png"  width="100%" height="100%"></img>
+<img src="https://github.com/CLUEbenchmark/SuperCLUELYB/blob/master/resources/img/battle_count.png"  width="100%" height="100%"></img>
+图片2：每种模型组合的对战次数。模型的匹配，总体上根据采用具有随机性；同时我们也将模型进行了分组，组内的模型具有更高的对战概率。
+
+
 
 ## 介绍Introduction
 
@@ -46,6 +49,13 @@ SuperCLUE琅琊榜：中文通用大模型匿名对战评价基准
 ## 数据搜集DataCollection
    
     这里写数据收集过程，结果，初步的一两个统计信息
+    
+    可以在www.SuperCLUEAI.com使用我系统。当用户进入竞技场时，他们可以并排与两个匿名模型聊天，如图1所示。一旦提交投票，模型名称将被公布。
+    用户可以继续用两个新的随机选择的匿名模型重新开始一场新的对战。该平台记录所有用户交互。在我们的分析中，我们只在模型名称隐藏时使用投票。
+    琅琊榜在5月19日启动，从那时起，我们已经收集了5.8k张有效的匿名选票。我们在这里做一个简短的总结。
+     
+   <img src="https://github.com/CLUEbenchmark/SuperCLUELYB/blob/master/resources/img/battle_count.png"  width="100%" height="100%"></img>
+
 
 ## 两两对战盈率
    
