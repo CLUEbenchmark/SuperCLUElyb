@@ -59,10 +59,15 @@ SuperCLUE琅琊榜：中文通用大模型匿名对战评价基准
 图片2：每种模型组合的对战次数。模型的匹配，总体上根据采用具有随机性；同时我们也将模型进行了分组，组内的模型具有比随机更高的对战机会。
 
 ## 两两对战盈率
-   
-     介绍一下对战赢率及其表格，包括Elo预测值（如有）
+        
+     作为校准的基础，我们在这里还展示了对战中每个模型的成对获胜率。
+   <img src="https://github.com/CLUEbenchmark/SuperCLUELYB/blob/master/resources/img/battle_winrate.png"  width="100%" height="100%"></img>
+图: 模型A在所有非平局的A对B战斗中获胜的分数。
+
    
 ## 中文模型初步评价
+
+    TODO 
 
 ## Elo评分系统
    
@@ -73,7 +78,7 @@ SuperCLUE琅琊榜：中文通用大模型匿名对战评价基准
     则玩家A获胜概率的确切公式为：
     
 
-   <img src="https://github.com/CLUEbenchmark/SuperCLUELYB/blob/master/resources/img/elo_gongshi.png"  width="100%" height="100%"></img>
+   <img src="https://github.com/CLUEbenchmark/SuperCLUELYB/blob/master/resources/img/elo_gongshi.png"  width="80%" height="80%"></img>
    
    玩家的评分可以在每次战斗后线性更新。
 
