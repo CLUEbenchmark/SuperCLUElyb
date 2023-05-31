@@ -43,6 +43,11 @@ SuperCLUE琅琊榜：中文通用大模型匿名对战评价基准
     为了收集数据，我们在5月19日推出了几个流行的可用于中文通用模型，包括开源模型。在琅琊榜，用户可以与两个匿名模型进行交互，
     并投票选出哪一个更好。
 
+
+<img src="https://github.com/CLUEbenchmark/SuperCLUELYB/blob/master/resources/img/benchmarks.png"  width="100%" height="100%"></img>
+表格2：不同的评价方法的对比 
+
+
 ## 数据搜集DataCollection
    
     这里写数据收集过程，结果，初步的一两个统计信息
