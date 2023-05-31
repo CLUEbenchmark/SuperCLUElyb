@@ -17,10 +17,11 @@ SuperCLUE琅琊榜：中文通用大模型匿名对战评价基准
 
 <img src="https://github.com/CLUEbenchmark/SuperCLUELYB/blob/master/resources/img/supercluelyb_rank.png"  width="100%" height="100%"></img>
 
-表格1 基于5.8K投票数据，使用Elo机制获得的16个模型的排名。你可以在<a href='https://www.superclueai.com'>琅琊榜</a>上查看
+   表格1：基于5.8K投票数据，使用Elo机制获得的16个模型的排名。你可以在<a href='https://www.superclueai.com'>琅琊榜</a>上查看
 
 <img src="https://github.com/CLUEbenchmark/SuperCLUELYB/blob/master/resources/img/battle.png"  width="100%" height="100%"></img>
-图片1：一对一的投票
+    
+    图片1：一对一的投票
 
 <img src="https://github.com/CLUEbenchmark/SuperCLUELYB/blob/master/resources/img/benchmarks.png"  width="100%" height="100%"></img>
 
