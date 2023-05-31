@@ -45,7 +45,6 @@ SuperCLUE琅琊榜：中文通用大模型匿名对战评价基准
 
 
 <img src="https://github.com/CLUEbenchmark/SuperCLUELYB/blob/master/resources/img/benchmarks.png"  width="100%" height="100%"></img>
-表格2：不同的评价方法的对比 
 
 
 ## 数据搜集DataCollection
@@ -68,6 +67,15 @@ SuperCLUE琅琊榜：中文通用大模型匿名对战评价基准
 ## Elo评分系统
    
     介绍一下Elo的原理
+    
+    Elo评分系统是一种计算参赛者相对技能水平的方法，在竞技游戏和体育运动中被广泛采用。两名参赛者之间的评分差异可以作为比赛结果的预测因素。
+    Elo评级系统适用于我们的案例，因为我们有多个模型，并且我们在它们之间进行对战。如果玩家A的评分为Ra，玩家B的评分为Rb，
+    则玩家A获胜概率的确切公式为：
+    
+
+   <img src="https://github.com/CLUEbenchmark/SuperCLUELYB/blob/master/resources/img/elo_gongshi.png"  width="100%" height="100%"></img>
+   
+   玩家的评分可以在每次战斗后线性更新。
 
 ## 后续计划
     
