@@ -91,8 +91,11 @@ SuperCLUE琅琊榜：中文通用大模型匿名对战评价基准
 
 ## 加入我们
     
-     邀请社区来使用，包括链接
+     我们邀请整个社区加入这项基准测试工作，贡献您的模型，并为您认为能提供更好答案的匿名模型投票。
+     您可以访问https://www.SuperCLUEAI.com投票选出更好的车型。如果你想在竞技场上看到一个特定的模型，
+     你可以填写表格或提issue来帮助我们添加它。
+
 
 ## 链接
      
-     网站，排行榜，Github项目，colab notebook待添加
+   SuperCLUE琅琊榜：<a href='https://www.SuperCLUEAI.com'>www.SuperCLUEAI.com</a>
