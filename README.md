@@ -19,9 +19,10 @@ SuperCLUE琅琊榜：中文通用大模型匿名对战评价基准
 
    表格1：基于5.8K投票数据，使用Elo机制获得的16个模型的排名。你可以在<a href='https://www.superclueai.com'>琅琊榜</a>上查看
 
+
 <img src="https://github.com/CLUEbenchmark/SuperCLUELYB/blob/master/resources/img/battle.png"  width="100%" height="100%"></img>
     
-    图片1：一对一的投票
+   图片1：一对一的投票
 
 
 
@@ -56,13 +57,13 @@ SuperCLUE琅琊榜：中文通用大模型匿名对战评价基准
     琅琊榜在5月19日启动，从那时起，我们已经收集了5.8k张有效的匿名选票。我们在这里做一个简短的总结。
      
 <img src="https://github.com/CLUEbenchmark/SuperCLUELYB/blob/master/resources/img/battle_count.png"  width="100%" height="100%"></img>
-图片2：每种模型组合的对战次数。模型的匹配，总体上根据采用具有随机性；同时我们也将模型进行了分组，组内的模型具有比随机更高的对战机会。
+图2：每种模型组合的对战次数。模型的匹配，总体上根据采用具有随机性；同时我们也将模型进行了分组，组内的模型具有比随机更高的对战机会。
 
 ## 两两对战盈率
         
      作为校准的基础，我们在这里还展示了对战中每个模型的成对获胜率。
    <img src="https://github.com/CLUEbenchmark/SuperCLUELYB/blob/master/resources/img/battle_winrate.png"  width="100%" height="100%"></img>
-图: 模型A在所有非平局的A对B战斗中获胜的分数。
+图3: 模型A在所有非平局的A对B战斗中获胜的分数。
 
    
 ## 中文模型初步评价
