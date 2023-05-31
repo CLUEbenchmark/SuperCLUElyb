@@ -15,7 +15,7 @@ SuperCLUE琅琊榜：中文通用大模型匿名对战评价基准
 - [链接](#链接)
 
 
-<img src="https://github.com/CLUEbenchmark/SuperCLUELYB/blob/main/resources/img/supercluelyb_rank.png"  width="90%" height="90%"></img>
+<img src="https://github.com/CLUEbenchmark/SuperCLUELYB/blob/master/resources/img/supercluelyb_rank.png"  width="95%" height="95%"></img>
 
 ## 介绍Introduction
 
