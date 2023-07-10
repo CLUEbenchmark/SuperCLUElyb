@@ -3,7 +3,6 @@ SuperCLUE琅琊榜：中文通用大模型匿名对战评价基准
 
 我们展示了SuperCLUE琅琊榜，这是一个中文通用大模型对战评价基准，它以众包的方式提供匿名、随机的对战。在本文中，我们发布了初步的结果和基于Elo评级系统的排行榜，Elo评级是国际象棋和其他竞技游戏中广泛使用的评级系统。我们邀请整个社区加入这项工作，贡献新的模型，并通过提问和投票选出你最喜欢的答案来评估它们。
 
-
 - [介绍Introduction](#介绍Introduction)
 - [数据搜集DataCollection](#数据收集DataCollection)
 - [两两对战胜率](#两两对战胜率)
@@ -13,6 +12,8 @@ SuperCLUE琅琊榜：中文通用大模型匿名对战评价基准
 - [加入我们](#加入我们)
 - [链接](#链接)
 
+
+更新7月07日：最新排名及数据见：<a href='https://www.superclueai.com/'>琅琊榜-202307</a>
 
 <img src="https://github.com/CLUEbenchmark/SuperCLUELYB/blob/master/resources/img/supercluelyb_rank.png"  width="100%" height="100%"></img>
 
